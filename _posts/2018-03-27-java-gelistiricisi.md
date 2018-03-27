@@ -37,17 +37,27 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
  
 ## Biz ne sunuyoruz:
  * 2013'ten beri piyasada olan bir şirketiz.
+ 
  * 2014 yılında Galata Business Angels ve BIC'den yatırım almıştık. Aynı zamanda da Tübitak ve KOSGEB'ce desteklenen bir şirketiz. 
+ 
  * Metro ve metrobüs hattı üzerinde, ulaşımı çok kolay olan, olanakları çalışanların ihtiyaçlarına göre düzenlenmiş güzel bir ofisimiz var.
- * Macbook Pro (ya da işin gereği neyse, ona uygun bir dizüstü bilgisayar) + geniş ekran monitör.
+ 
+ * Macbook Pro (ya da işin gereğine ve kişinin seçimine uygun bir dizüstü bilgisayar) + geniş ekran monitör.
+ 
  * Yalnızca teknik ekibin kullanımına ayrılmış ayrı bir toplantı odası.
+ 
  * Konferanslara ve etkinliklere katılıma teşvik.
+ 
  * Kitap satın alma bütçesi.
+ 
  * Öğlen yemeği ücreti.
+ 
  * İletişime açık bir ofis ortamı ve ekip. 
  
  * Övünülecek şeyler değil, yine de belirtmekte yarar var: maaş her zaman, zamanında ödeniyor. Ayın 1'i haftasonuna denk gelirse, bir önceki iş günü ödeniyor. 
+ 
  * Türkiye'den çalışarak, dünyanın her yerine hizmet veren bir startup'ız, 48 ülkeden müşterisi olan bir SaaS ürünüyüz.
+ 
  * Prisync hakkında: 
    1. [Wired: Europe's hottest startups](http://www.wired.co.uk/article/100-hottest-european-startups-2015-istanbul)
    2. [Crunchbase: Prisync](https://bit.ly/crunchbase-prisync)
@@ -56,3 +66,6 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
 **İletişim ve CV paylaşmak için e-posta: careers@prisync.com**
 
 Not: _Ekip kültürü gereği geliştirici başvurularına İK'ci bakmıyor, başvuruları değerlendiren insanlar da geliştirici._
+
+Samet Atdag
+
