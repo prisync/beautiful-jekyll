@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Java Developer
-subtitle: Anahtar kelimeler: Web scraping, HTTP, Jsoup, Linux, MySQL, Bash, RabbitMQ, Git
-
+subtitle: Anahtar kelimeler – Web scraping, HTTP, Jsoup, Linux, MySQL, Bash, RabbitMQ, Git
 ---
 
 Prisync'te geliştirmeye devam ettiğimiz ürüne katkı sağlamak üzere 2+ yıl tecrübeli bir Java back-end geliştirici arıyoruz. 
