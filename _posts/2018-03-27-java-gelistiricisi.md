@@ -63,7 +63,7 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
    2. [Crunchbase: Prisync](https://www.crunchbase.com/organization/prisync){:target="_blank"}
    3. [LinkedIn: Prisync](https://www.linkedin.com/company/3120888/){:target="_blank"}
 
-**İletişim ve CV paylaşmak için e-posta:** [careers@prisync.com](mailto:careers@prisync.com?Subject=Java%20Developer&Body=Merhaba&#10;basvuru%20icin%20CV&#39;m%20ektedir)
+**İletişim ve CV paylaşmak için e-posta:** [careers@prisync.com](mailto:careers@prisync.com?Subject=Java%20Developer&Body=Merhaba,basvuru%20icin%20CV&#39;m%20ektedir)
 
 
 Not: _Ekip kültürü gereği geliştirici başvurularına İK'ci bakmıyor, başvuruları değerlendiren insanlar da geliştirici._
