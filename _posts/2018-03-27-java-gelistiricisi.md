@@ -60,7 +60,7 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
  
  * Prisync hakkında: 
    1. [Wired: Europe's hottest startups](http://www.wired.co.uk/article/100-hottest-european-startups-2015-istanbul){:target="_blank"}
-   2. [Crunchbase: Prisync](https://bit.ly/crunchbase-prisync){:target="_blank"}
+   2. [Crunchbase: Prisync](https://www.crunchbase.com/organization/prisync){:target="_blank"}
    3. [LinkedIn: Prisync](https://www.linkedin.com/company/3120888/){:target="_blank"}
 
 **İletişim ve CV paylaşmak için e-posta: careers@prisync.com**
