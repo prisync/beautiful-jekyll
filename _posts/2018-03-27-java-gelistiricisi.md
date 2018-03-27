@@ -29,7 +29,7 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
 Çalışacağımız arkadaşın tam zamanlı olarak bizimle çalışmasını bekliyoruz. 
 
 ## Beklentilerimiz:
- * Her şeyi bilen insan aramıyoruz aslında. Öğrenmeye ve yeni fikirlere açık insanlarla birlikte çalışmayı seviyoruz. Yine de gelecek insan yukarıdakilerden birkaçını kullanmış olmalı.
+ * "Her şeyi bilen insan" aramıyoruz aslında. Öğrenmeye ve yeni fikirlere açık insanlarla birlikte çalışmayı seviyoruz. Yine de gelecek insan yukarıdakilerden birkaçını kullanmış olmalı.
 
  * Elini bir şeylere bulaştırmış ve daha önce gerçekten en az bir/birkaç projede aktif görev almış insanlar arıyoruz. 
 
@@ -56,7 +56,7 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
  
  * Övünülecek şeyler değil, yine de belirtmekte yarar var: maaş her zaman, zamanında ödeniyor. Ayın 1'i haftasonuna denk gelirse, bir önceki iş günü ödeniyor. 
  
- * Türkiye'den çalışarak, dünyanın her yerine hizmet veren bir startup'ız, 48 ülkeden müşterisi olan bir SaaS ürünüyüz.
+ * Türkiye'den çalışarak, dünyanın her yerine hizmet veren bir startup'ız, 48 ülkeden müşterisi olan bir SaaS ürünüyüz. Kariyer gelişimi bağlamında, veri operasyonları ve ölçekleme üzerinde uğraşan insanlarla birlikte çalışarak, veriye dayalı global bir SaaS projesinin tüm süreçlerini gözlemleme şansı elde edebileceksiniz.
  
  * Prisync hakkında: 
    1. [Wired: Europe's hottest startups](http://www.wired.co.uk/article/100-hottest-european-startups-2015-istanbul){:target="_blank"}
