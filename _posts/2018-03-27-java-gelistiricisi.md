@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Developer
+title: Java Geliştiricisi Arıyoruz
 subtitle: Anahtar kelimeler – Web scraping, HTTP, Jsoup, Linux, MySQL, Bash, RabbitMQ, Git
 ---
 
