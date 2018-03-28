@@ -2,6 +2,7 @@
 layout: post
 title: Java Geliştiricisi Arıyoruz
 subtitle: Anahtar kelimeler – Web scraping, HTTP, Jsoup, Linux, MySQL, Bash, RabbitMQ, Git
+share-img: https://blog.prisync.com/airplanebody/uploads/2017/11/prisync-logo.png
 ---
 
 ![Prisync](https://blog.prisync.com/airplanebody/uploads/2017/11/prisync-logo.png "Java Geliştiricisi Arıyoruz")
