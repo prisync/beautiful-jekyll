@@ -29,7 +29,7 @@ Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 
 Çalışacağımız arkadaşın tam zamanlı olarak bizimle çalışmasını bekliyoruz. 
 
 ## Beklentilerimiz:
- * "Her şeyi bilen insan" aramıyoruz aslında. Öğrenmeye ve yeni fikirlere açık insanlarla birlikte çalışmayı seviyoruz. Yine de gelecek insan yukarıdakilerden birkaçını kullanmış olmalı.
+ * "Her şeyi bilen insan" aramıyoruz. Öğrenmeye ve yeni fikirlere açık insanlarla birlikte çalışmayı seviyoruz. Yine de gelecek insan yukarıdakilerden birkaçını kullanmış olmalı.
 
  * Elini bir şeylere bulaştırmış ve daha önce gerçekten en az bir/birkaç projede aktif görev almış insanlar arıyoruz. 
 
