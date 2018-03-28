@@ -5,8 +5,6 @@ subtitle: Anahtar kelimeler – Web scraping, HTTP, Jsoup, Linux, MySQL, Bash, R
 share-img: https://blog.prisync.com/airplanebody/uploads/2017/11/prisync-logo.png
 ---
 
-![Prisync](https://blog.prisync.com/airplanebody/uploads/2017/11/prisync-logo.png "Java Geliştiricisi Arıyoruz")
-
 Prisync'te geliştirmeye devam ettiğimiz ürüne katkı sağlamak üzere 2+ yıl tecrübeli bir Java back-end geliştirici arıyoruz. 
 
 Prisync olarak webden topladığımız fiyat-stok verilerini analiz ederek ürettiğimiz anlamlı bilgiyi e-ticaret alanında faaliyet gösteren müşterilerimize sunuyoruz. 
