@@ -25,7 +25,7 @@ Kendi geliştirdiğimiz engine ile ayda 600 milyon web sayfasını ziyaret edere
  * Jenkins
  * ...
 
-Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 6-8 dakika yürüme mesafesinde. ([Harita için tıklayın.](https://bit.ly/prisync-esentepe){:target="_blank"})
+Ofisimiz Esentepe'de. Zincirlikuyu Metrobüs'e ve Gayrettepe Metro duraklarına 6-8 dakika yürüme mesafesinde. ([Harita için tıklayın.](https://bit.ly/prisync-esentepe){:target="_blank"}) (Pandemi nedeniyle istisnai haller dışında tamamen uzaktan çalışıyoruz.)
 
 Çalışacağımız arkadaşın tam zamanlı olarak bizimle çalışmasını bekliyoruz. 
 
